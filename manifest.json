@@ -14,7 +14,7 @@
     "webNavigation"
   ],
   "background": {
-    "scripts": ["scripts/background.js"],
+    "scripts": ["background.js"],
     "persistent": true
   },
   "browser_action": {
@@ -38,7 +38,7 @@
         "https://www.youtube.com/*"
       ],
       "js": [
-        "scripts/content.js"
+        "content.js"
       ]
     }
   ],
